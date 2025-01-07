@@ -74,8 +74,9 @@ We're on the lookout for a UI/UX collaborator who's passionate about open-source
 
 If you're keen on contributing or just want to reach out, here's how to get in touch:
 
-- **Email**: contact@agentforge.net
-- **Discord**: Join our [Discord Server](https://discord.gg/ttpXHUtCW6)
+- **Email**: luman@agent.net
+-**Twitter/X**: https://x.com/luman_agent
+- **Discord**: Join our [Discord Server](https://discord.gg/ttpXHUACW6)
 
 ---
 
