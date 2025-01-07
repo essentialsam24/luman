@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue?style=plastic&logo=python)](https://www.python.org/)
 [![Homepage](https://img.shields.io/badge/Homepage-agentforge.net-green?style=plastic&logo=google-chrome)](https://agentforge.net/)
 
-![Luman](./docs/Images/Luman-Banner.jpg)
+![Luman Agent](./Luman%20Agent.jpg)
 
 # Luman
 
